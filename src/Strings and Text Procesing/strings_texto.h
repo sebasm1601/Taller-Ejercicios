@@ -1,8 +1,6 @@
 #ifndef STRINGS_TEXTO_H
 #define STRINGS_TEXTO_H
 
-// Interfaz común para todos los ejercicios de Strings y Procesamiento de Texto
-// Esta interfaz declara todas las funciones que implementaremos
 
 // Ejercicio 1: Verificar si una palabra es un palíndromo
 void verificarPalindromo();
